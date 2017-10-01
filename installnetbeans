@@ -1,0 +1,3 @@
+sudo add-apt-repository ppa:vajdics/netbeans-installer
+sudo apt update
+sudo apt install netbeans-installer
